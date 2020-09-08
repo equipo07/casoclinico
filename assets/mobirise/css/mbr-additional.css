@@ -3,7 +3,6 @@
 
 
 
-
 body {
   font-family: Rubik;
 }
@@ -16,7 +15,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: undefined;
   font-size: 3rem;
   font-display: swap;
 }
@@ -711,23 +710,22 @@ section.lazy-placeholder:after {
 }
 .cid-s9R8Kb4Gtf {
   padding-top: 90px;
-  padding-bottom: 30px;
-  background-color: #b8ebd0;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/63c439bb14f750e01a4535606f67b14f-2000x1000.png");
 }
 .cid-s9R8Kb4Gtf H1 {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-s9R8Kb4Gtf .mbr-text,
 .cid-s9R8Kb4Gtf .mbr-section-btn {
-  color: #232323;
+  color: #efefef;
 }
 .cid-s9R85vSikP {
   background: #9bbcef;
-  padding-top: 60px;
-  padding-bottom: 0px;
 }
 .cid-s9R85vSikP .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-s9R85vSikP figcaption {
   position: relative;
@@ -742,22 +740,22 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s9RbSddJb0 {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #9bbcef;
+.cid-s9Yufw1Z6a {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #7e9c98;
 }
-.cid-s9RbSddJb0 .mbr-text,
-.cid-s9RbSddJb0 blockquote {
+.cid-s9Yufw1Z6a .mbr-text,
+.cid-s9Yufw1Z6a blockquote {
   color: #767676;
 }
-.cid-s9RbSddJb0 DIV {
-  color: #000000;
+.cid-s9Yufw1Z6a .mbr-text {
+  color: #ffffff;
 }
 .cid-s9RdH8syJF {
-  padding-top: 30px;
-  padding-bottom: 90px;
-  background-color: #bcb3c1;
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #b1d3d3;
 }
 .cid-s9RdH8syJF .mbr-section-subtitle,
 .cid-s9RdH8syJF .mbr-text {
@@ -821,6 +819,20 @@ section.lazy-placeholder:after {
   opacity: .5;
 }
 .cid-s9RdH8syJF .mbr-text {
-  text-align: left;
+  text-align: center;
   color: #232323;
+}
+.cid-s9RdH8syJF .card-title {
+  text-align: center;
+}
+.cid-s9RdH8syJF .mbr-section-subtitle {
+  color: #000000;
+}
+.cid-s9YbIN5FDA {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-s9YbIN5FDA P {
+  color: #767676;
 }
